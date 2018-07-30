@@ -20,6 +20,6 @@ func main() {
 	for i := range in {
 		fmt.Println("\tget", i)
 	}
-
+	fmt.Print("endedddd\n")
 	// fmt.Scanln()
 }
